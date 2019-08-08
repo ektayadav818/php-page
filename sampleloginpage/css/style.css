@@ -1,0 +1,106 @@
+/*css style sheet*/
+
+#main-wrapper{
+	width: 500px;
+	margin:0 auto;
+	background: white;
+	padding: 5px;
+	border-radius: 10px;
+	border:2px solid #2c3e50;
+}
+.myform{
+	width: 450px;
+	margin:0 auto;
+}
+.inputvalue{
+	width: 430px;
+	margin:0 auto;
+	padding: 5px;
+}
+.photo{
+	width: 150px;
+	text-align: center;
+}
+#login_btn{
+	margin-top: 10px;
+	background-color: #27ae60;
+	padding: 5px;
+	color:white;
+	width: 100px;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+}
+#register_btn{
+	margin-top: 10px;
+	background-color: #3498db;
+	padding: 5px;
+	color:white;
+	width: 100px;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+}
+#signup_btn{
+	margin-top: 10px;
+	background-color: #3498db;
+	padding: 5px;
+	color:white;
+	width: 100px;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+}
+#back_btn{
+	margin-top: 10px;
+	background-color: red;
+	padding: 5px;
+	color:white;
+	width: 100px;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+	}
+#logout_btn{
+	margin-top: 10px;
+	background-color: red;
+	padding: 5px;
+	color:white;
+	width: 100px;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+	margin :20px;
+}
+ #header-nav{
+	background-color: #f6b319;
+	border-radius: 0;
+	border:0;
+}
+#logo-img{
+	background:url('../img/logo.png') no-repeat;
+	width: 150px;
+	height: 150px;
+	margin: 10px 15px 10px 0;
+}
+.navbar-brand{
+	padding-top: 25px;
+
+}	
+.navbar-brand h1{
+	font-family: 'lora',serif;
+	color: #557c3e;
+	font-size: 1.5cm;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus{
+	color: #000;
+	text-transform: uppercase;
+	font-size: .7cm;
+	margin-top: 15px;
+}
